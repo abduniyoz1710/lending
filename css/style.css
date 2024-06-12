@@ -1,4 +1,4 @@
-body {
+   body {
     font-family: FuturaPT-Book;
     background: #F9F9F9;
 }
@@ -491,7 +491,7 @@ body {
 
 }
 .btns a {
-    text-decoration: none;
+    text-decoration: none;     
     
 }
 .btns {
